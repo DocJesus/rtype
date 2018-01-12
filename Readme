@@ -1,0 +1,4 @@
+on peut créer un exécutable de ce que j'ai fait via la commande suivante:
+mkdir build && cd build && cmake .. && make
+et après lancer l'éxécutable pour tester le programme
+(il faut rentrer un caractère, mais c'est juste un éxécutable de test)
